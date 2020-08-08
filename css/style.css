@@ -5,6 +5,9 @@ body{
   font-family: 'Merriweather', serif;
 
 }
+.link{
+  background-color:red;
+}
   .link:link, .link:visited {
   background-color: #f44336;
   color: white;
